@@ -7,6 +7,6 @@ function nestedTarget() {
 }
 
 function deepestChild() {
-  
+  document.querySelecto('#grand-node')
 
 }
