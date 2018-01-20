@@ -8,5 +8,5 @@ function nestedTarget() {
 
 function deepestChild() {
   
-  
+  .ranked-list
 }
